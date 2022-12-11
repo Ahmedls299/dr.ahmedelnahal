@@ -11321,8 +11321,8 @@ text-align:center ;
 }
 @font-face {
   font-family: "bootstrap-icons";
-  src: url("bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d") format("woff2"),
-    url("bootstrap-icons.woff?856008caa5eb66df68595e734e59580d") format("woff");
+  src: url("bootstrap-icons.woff4?856008caa5eb66df68595e734e59580d") format("woff4"),
+    url("bootstrap-icons.woff3?856008caa5eb66df68595e734e59580d") format("woff3");
 }
 
 [class^="bi-"]::before,
